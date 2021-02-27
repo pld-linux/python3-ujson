@@ -6,7 +6,7 @@ Summary:	Ultra fast JSON encoder and decoder for Python
 Summary(pl.UTF-8):	Ultraszybki koder i dekoder formatu JSON dla Pythona
 Name:		python3-ujson
 Version:	3.0.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/ujson/
